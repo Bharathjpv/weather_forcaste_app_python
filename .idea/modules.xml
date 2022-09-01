@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Perfect Weather Prediction for Players.iml" filepath="$PROJECT_DIR$/.idea/Perfect Weather Prediction for Players.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simple-naive-bayes-weather-prediction-master.iml" filepath="$PROJECT_DIR$/.idea/simple-naive-bayes-weather-prediction-master.iml" />
+    </modules>
+  </component>
+</project>
